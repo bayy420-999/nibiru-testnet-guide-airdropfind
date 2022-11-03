@@ -28,7 +28,7 @@ You can find each Nibiru testnet below
 
 ### Minimum requirements
 
-| Hardware | Minimum requirements |
+| Hardware | Minimum spec |
 |----------|----------------------|
 |CPU|4x CPUs; the faster clock speed the better|
 |RAM|8GB RAM|
@@ -37,7 +37,7 @@ You can find each Nibiru testnet below
 
 ### Recommend requirements
 
-| Hardware | Minimum requirements |
+| Hardware | Recommend spec |
 |----------|----------------------|
 |CPU|8x CPUs; the faster clock speed the better|
 |RAM|64GB RAM|
